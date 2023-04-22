@@ -3,7 +3,7 @@
 <div align="center">
 
   <h3><b>Hello-world-two-rails-react</b></h3>
-front-end: https://github.com/Ibtisam34/Hello-world-front-end
+front-end: https://github.com/SSEKPIUS/Hello-world-front-end-.git
 </div>
 
 <a name="readme-top"></a>
